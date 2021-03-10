@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/JackPu/react-native-percentage-circle#readme",
   "dependencies": {
+    "prop-types": "latest",
     "react": "^16.3.2"
   },
   "devDependencies": {
